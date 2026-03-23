@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: "Shubman Gill", role: "batsman", country: "India", team: "GT", highlight: "Prince", img: "gill.png" },
         { name: "David Warner", role: "batsman", country: "Australia", team: "DC", highlight: "Bull", img: "david_warner.png" },
         { name: "Glenn Maxwell", role: "all-rounder", country: "Australia", team: "RCB", highlight: "Big Show", img: "maxwell.png" },
-        { name: "Ravindra Jadeja", role: "all-rounder", country: "India", team: "CSK", highlight: "Sir Jadeja", img: "sir_jadeja.png" },
+        { name: "Ravindra Jadeja", role: "all-rounder", country: "India", team: "RR", highlight: "Sir Jadeja", img: "sir_jadeja.png" },
         { name: "Suryakumar Yadav", role: "batsman", country: "India", team: "MI", highlight: "SKY", img: "surya.png" },
         { name: "Rishabh Pant", role: "wicketkeeper", country: "India", team: "DC", highlight: "Spiderman", img: "rishabh_pant.png" },
         { name: "Trent Boult", role: "bowler", country: "New Zealand", team: "RR", highlight: "Thunder Bolt", img: "trent_bolt.png" },
